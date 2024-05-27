@@ -1,4 +1,5 @@
 from machine import Pin
+
 import time
 
 # Definir pines
